@@ -1,2 +1,3 @@
 # React-ExpenseTracker
-01-starting-setup
+
+Dummy project i did on React
